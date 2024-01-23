@@ -4,5 +4,3 @@
 - Estaremos usando este repositório para nossos desenvolvedores!
 
 Discord: https://discord.gg/vortexiashield
-Twitter: @VortexiaShield
-Site: [Clique Aqui](https://vortexiashield.com)
